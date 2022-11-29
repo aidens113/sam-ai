@@ -7,3 +7,4 @@ Details & goals of the project:
 -Sam should decide whether or not to respond to a message on it's own
 -Sam should be able to automatically search the internet if it thinks a message is a question/needs help
 -Sam should be able to hold a conversation to some extent
+
